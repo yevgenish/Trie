@@ -1,2 +1,2 @@
 # Trie
-Trie project - fast autocomplete
+Trie project - fast search. Path compression mechanism
